@@ -105,14 +105,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohan123490&show_icons=true&theme=tokyonight&count_private=true" alt="Mohan's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan123490&theme=tokyonight" alt="Mohan's Streak" height="165"/>
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan123490&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
